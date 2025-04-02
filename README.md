@@ -15,6 +15,7 @@ This document provides a step-by-step guide on how I installed the necessary too
 ### 1. Installing Visual Studio Code (VS Code)
 
 Visual Studio Code is my go-to source code editor because it's lightweight yet powerful.
+ ![Alt text](./img/VScode.png)
 
 - I downloaded VS Code from the official website: [VS Code Download](https://code.visualstudio.com/)
 - I followed the installation instructions for my operating system (Windows, macOS, or Linux).
@@ -23,6 +24,7 @@ Visual Studio Code is my go-to source code editor because it's lightweight yet p
 ### 2. Installing Git
 
 Git helps me track changes in my source code and collaborate with others.
+  ![Alt text](./img/git.png)
 
 - I downloaded Git from the official website: [Git Download](https://git-scm.com/downloads)
 - I installed Git by following the provided instructions.
@@ -32,6 +34,7 @@ Git helps me track changes in my source code and collaborate with others.
   ```
 
 ### 3. Installing VirtualBox
+![Alt text](./img/virtualbox.png)
 
 VirtualBox allows me to run multiple operating systems on my machine.
 
@@ -39,6 +42,7 @@ VirtualBox allows me to run multiple operating systems on my machine.
 - I installed VirtualBox by following the on-screen instructions.
 
 ### 4. Installing Ubuntu on VirtualBox (Windows)
+![Alt text](./img/ubuntu.png)
 
 - I downloaded the Ubuntu ISO from: [Ubuntu Download](https://ubuntu.com/download/desktop)
 - I opened VirtualBox and created a new virtual machine:
